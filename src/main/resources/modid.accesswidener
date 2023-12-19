@@ -1,0 +1,5 @@
+accessWidener v2 named
+
+accessible method net/minecraft/entity/effect/StatusEffect <init> (Lnet/minecraft/entity/effect/StatusEffectCategory;I)V
+accessible method net/minecraft/entity/effect/StatusEffects register (Ljava/lang/String;Lnet/minecraft/entity/effect/StatusEffect;)Lnet/minecraft/entity/effect/StatusEffect;
+accessible method net/minecraft/block/entity/BlockEntityType create (Ljava/lang/String;Lnet/minecraft/block/entity/BlockEntityType$Builder;)Lnet/minecraft/block/entity/BlockEntityType;
